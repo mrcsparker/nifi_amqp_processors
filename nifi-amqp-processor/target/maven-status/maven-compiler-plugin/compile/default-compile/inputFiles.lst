@@ -1,0 +1,17 @@
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/util/KeyStoreToJKS.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/util/QpidAmqpFactory.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/GetDzoneRabbitmqAMQP.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/util/RabbitmqWrappedMessageProducer.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/util/RabbitmqAmqpFactory.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/GetRabbitmqAMQP.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/util/WrappedMessageProducer.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/PutRabbitmqAMQP.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/util/EndPoint.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/RabbitmqConsumer.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/util/JmsProcessingSummary.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/util/WrappedMessageConsumer.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/GetAMQP.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/util/QueueConsumer.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/util/AmqpProperties.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/AmqpConsumer.java
+/data/dave_workspace/nifi-amqp-bundle/nifi-amqp-processor/src/main/java/org/apache/nifi/processors/amqp/PutAMQP.java
