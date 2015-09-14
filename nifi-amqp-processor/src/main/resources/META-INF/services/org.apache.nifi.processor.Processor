@@ -14,6 +14,3 @@
 # limitations under the License.
 org.apache.nifi.processors.amqp.GetAMQP
 org.apache.nifi.processors.amqp.PutAMQP
-org.apache.nifi.processors.amqp.PutRabbitmqAMQP
-org.apache.nifi.processors.amqp.GetRabbitmqAMQP
-org.apache.nifi.processors.amqp.GetDzoneRabbitmqAMQP
