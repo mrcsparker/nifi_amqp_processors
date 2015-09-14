@@ -18,7 +18,7 @@
     <parent>
         <groupId>org.apache.nifi</groupId>
         <artifactId>nifi-nar-bundles</artifactId>
-        <version>0.1.0-incubating</version>
+        <version>0.2.1</version>
     </parent>
     <artifactId>nifi-amqp-bundle</artifactId>
     <packaging>pom</packaging>
@@ -32,22 +32,22 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-amqp-processor-utils</artifactId>
-                <version>0.1.0-incubating</version>
+                <version>0.2.1</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-utils</artifactId>
-                <version>0.1.0-incubating</version>
+                <version>0.2.1</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-mock</artifactId>
-                <version>0.1.0-incubating</version>
+                <version>0.2.1</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-ssl-context-service-api</artifactId>
-                <version>0.1.0-incubating</version>
+                <version>0.2.1</version>
             </dependency>
             <dependency>
                 <groupId>javax.jms</groupId>
